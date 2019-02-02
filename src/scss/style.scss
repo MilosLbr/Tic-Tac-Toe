@@ -1,0 +1,14 @@
+// base imports
+@import 'base/Base';
+@import 'base/Animations';
+
+// layout imports
+@import 'layout/Container';
+@import 'layout/HeaderDiv';
+
+//module imports
+@import 'modules/IntroComponent';
+@import 'modules/Buttons';
+@import 'modules/ScoreDiv';
+@import 'modules/GameBoard';
+@import 'modules/Tile';

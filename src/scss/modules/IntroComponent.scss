@@ -1,0 +1,17 @@
+.introComponentContainer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: radial-gradient(#60B981, #3fae3f)
+}
+.introComponent{
+    position: relative;
+    width: 90%;
+    height: 50%;
+    text-align: center;
+}
+.introComponent h2{
+    color: white;
+}

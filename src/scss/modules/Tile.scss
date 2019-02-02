@@ -1,0 +1,26 @@
+$borderStyle : 2px solid white;
+
+.tile{
+    display: inline-flex;
+    flex-basis:  33.333%;
+    text-align: center;
+    height: 33.333%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 4rem;
+    color: white;
+}
+
+.top{
+    border-bottom: $borderStyle;
+}
+.left{
+    border-right: $borderStyle;
+}
+.right{
+    border-left: $borderStyle;
+}
+.bottom{
+    border-top: $borderStyle;
+}

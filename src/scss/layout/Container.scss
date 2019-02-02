@@ -1,0 +1,14 @@
+.container{
+    width: 400px;
+    height: 400px;
+    margin: 70px auto 0px auto;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: radial-gradient(#60B981, #3fae3f)
+}
+
+.height40{
+    height : 40% !important;
+}

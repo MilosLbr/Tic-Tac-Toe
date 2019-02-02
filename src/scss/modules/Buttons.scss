@@ -1,0 +1,57 @@
+.btn{
+    background-color: #e7e7e7; 
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    outline: none;
+    min-width: 60px;
+    font-family: inherit;
+}
+.btn-left{
+    background-color: #dc3545;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.btn-left:hover{
+    background-color: #c82333;
+}
+.btn-right{
+    background-color: #007bff;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.btn-right:hover{
+    background-color: #0069d9;
+}
+
+.symbolBtn-left{
+    left: 20%;
+}
+.symbolBtn-right{
+    right: 20%;
+}
+.btn-playAgain{
+    font-size: 1rem;
+    min-width: 0;
+    padding: 1px 6px 1px 6px;
+}
+
+.btn-yes{
+    background-color: #13d841;
+}.btn-yes:hover{
+    background-color: #218838;
+}
+.btn-no{
+    background-color: #dc3545;
+}
+.btn-no:hover{
+    background-color: #c82333;
+}
